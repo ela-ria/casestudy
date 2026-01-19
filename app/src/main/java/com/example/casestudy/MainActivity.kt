@@ -92,7 +92,7 @@ fun MainScreen() {
             contentAlignment = Alignment.Center
         ) {
             Text(
-                text = "Welcome to Home!",
+                text = "Welcome to My App!",
                 style = MaterialTheme.typography.headlineMedium,
                 color = colors.onBackground
             )
